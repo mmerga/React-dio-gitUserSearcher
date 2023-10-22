@@ -26,7 +26,7 @@ export function Header(){
                         </a>
                     </li>
                     <li><a 
-                            href="https://github.com/mmerga/Angular-dio-quizBuzzfeed" 
+                            href="https://github.com/mmerga/React-dio-gitUserSearcher" 
                             target="_blank" 
                             title="GitHub" rel="noreferrer"
                         >
