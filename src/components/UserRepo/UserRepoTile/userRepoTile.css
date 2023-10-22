@@ -1,0 +1,37 @@
+.userRepoTile-container{
+    width: 100%;
+    border: 1px solid #5D646E;
+    padding: 1rem;
+    border-radius: 5px;
+    display: flex; 
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.userRepoTile-name{
+    font-size: 1.5rem;
+    font-weight: bold;
+    cursor: pointer;
+    color: #2F81F7;
+    display: block;
+    margin-bottom: 1rem;
+}
+
+.userRepoTile-description,
+.userRepoTile-language{
+    color: #5D646E;
+}
+
+.userRepoTile-description{
+    font-size: 0.9rem;
+}
+
+.userRepoTile-language{
+    margin-top: 0.5rem;
+    width: 100%;
+
+}
+
+.userRepoTile-date{
+    float: inline-end;
+}

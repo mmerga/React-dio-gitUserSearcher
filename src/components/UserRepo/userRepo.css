@@ -1,0 +1,12 @@
+.userRepo-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 1rem;
+
+}
+
+@media(max-width: 768px){
+    .userRepo-container{
+        grid-template-columns: 1fr;
+    }
+}

@@ -1,0 +1,31 @@
+.userinfo-container{
+    width: 100%;
+    display: flex;
+    gap: 1rem;
+    margin: 1rem 0;
+}
+
+.userinfo-img{
+    width: 130px;
+}
+
+.userinfo-img img{
+    border-radius: 50%;
+    width: 100%;
+}
+
+.userinfo-info{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 0.5rem;
+}
+
+.userinfo-info a{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.userinfo-info p{
+    color: #c1c1c1;
+}
